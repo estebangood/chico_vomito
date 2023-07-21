@@ -1,0 +1,9 @@
+img{
+    width: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background: skyblue;
+}
